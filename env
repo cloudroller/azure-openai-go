@@ -1,0 +1,8 @@
+AZURE_OPENAI_ENDPOINT=https://aws.openai.azure.com/
+AZURE_OPENAI_API_KEY=9apB9EtnpbOJYqPS0vzEbr8T976woI5FYLtnN2HdnTRkQymT5lZNJQQJ99AKACYeBjFXJ3w3AAABACOGFyYH
+AZURE_OPENAI_API_VERSION=2024-08-01-preview
+AZURE_OPENAI_DEPLOYMENT_NAME=gpt-4o
+
+AZURE_OPENAI_SERVICE_API = "https://oai-endpoint.developer.azure-api.net/api-details#api=aws&operation=ChatCompletions_Create"
+
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
